@@ -14,9 +14,9 @@ Sou estudante de engenharia de manufatura na UNICAMP e estou expandindo minhas h
 
 ## Projetos recentes
 
-- [Cineflex](https://github.com/NOME_DE_USUARIO/cineflex) - Projeto Front end - Tecnologias utilizadas: React.js, Axios, ContextAPI, API (Rest)
-- [Drivent](https://github.com/NOME_DE_USUARIO/drivent) - Projeto Full Stack - Tecnologias utilizadas: React.js, Axios, Node.js, Express.js, PostgreSQL, typeScript, PrismaORM, Jest.
-- [Boardcamp](https://github.com/NOME_DE_USUARIO/boardcamp) - Projeto Back end - Tecnologias utilizadas: Node.js, ContextAPI, PostgreSQL, Express, Javascript. 
+- [Cineflex](https://github.com/LucasLuiz01/projeto10-cineflex) - Projeto Front end - Tecnologias utilizadas: React.js, Axios, ContextAPI, API (Rest)
+- [Drivent](https://github.com/LucasLuiz01/projeto16-boardcamp) - Projeto Full Stack - Tecnologias utilizadas: React.js, Axios, Node.js, Express.js, PostgreSQL, typeScript, PrismaORM, Jest.
+- [Boardcamp](https://github.com/Drivent-G2) - Projeto Back end - Tecnologias utilizadas: Node.js, ContextAPI, PostgreSQL, Express, Javascript. 
 
 ## Entre em contato
 
