@@ -2,6 +2,12 @@
 
 Sou estudante de engenharia de manufatura na UNICAMP e estou expandindo minhas habilidades em desenvolvimento web full stack através de uma formação na Driven Education.
 
+<div>
+<a href="https://github.com/LucasLuiz01">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuário-aqui&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuário-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+
 ## Habilidades e ferramentas
 
 - JavaScript
