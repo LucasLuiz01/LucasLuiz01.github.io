@@ -9,9 +9,10 @@ Sou estudante de engenharia de manufatura na UNICAMP e estou expandindo minhas h
 </div>
 
 ## Habilidades e ferramentas
-
+<div>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"width="40" height="40" />
+ </div>
 - Node.js
 - TypeScript
 - HTML/CSS
