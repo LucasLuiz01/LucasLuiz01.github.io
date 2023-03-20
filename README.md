@@ -1,4 +1,4 @@
-# Olá, eu sou [Lucas Luiz]! 👋
+# Olá, eu sou Lucas Luiz! 👋
 
 Sou estudante de engenharia de manufatura na UNICAMP e estou expandindo minhas habilidades em desenvolvimento web full stack através de uma formação na Driven Education.
 
