@@ -10,7 +10,7 @@ Sou estudante de engenharia de manufatura na UNICAMP e estou expandindo minhas h
 
 ## Habilidades e ferramentas
 
-- JavaScript
+ <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 - React
 - Node.js
 - TypeScript
