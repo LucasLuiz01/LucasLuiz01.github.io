@@ -19,9 +19,8 @@ Sou estudante de engenharia de manufatura na UNICAMP e estou expandindo minhas h
 - [Boardcamp](https://github.com/Drivent-G2) - Projeto Back end - Tecnologias utilizadas: Node.js, ContextAPI, PostgreSQL, Express, Javascript. 
 
 ## Entre em contato
-
-- [LinkedIn](https://www.linkedin.com/in/lucas-luiz-a3b9ba1b2/)
-- [E-mail](lucas.luiz98@hotmail.com)
+<a href = "lucas.luiz98@hotmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/lucas-luiz-a3b9ba1b2/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 ## Próximos passos
 
