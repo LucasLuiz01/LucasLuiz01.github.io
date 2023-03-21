@@ -1,5 +1,5 @@
 <div>
-  <h1>Olá, eu sou Lucas Luiz! 👋</h1>
+  <h1>Hello, I'm Lucas Luiz! 👋</h1>
 - 🌱 I’m currently in a bootcamp at Driven Education and learning things on my own too.
   </br>
 - 📫 As a Full Stack developer, I have skills in JavaScript, React, Node.js, and TypeScript, among others.
@@ -12,22 +12,21 @@
   </a>
 </div>
 
-## Habilidades e ferramentas
+## Skills and Tools.
 [![My Skills](https://skillicons.dev/icons?i=linux,vscode,github,html,css,js,react,mongodb,postgres,aws,docker)](https://skillicons.dev)
  
-## Projetos recentes
+## Recent Projects
 
-- [Cineflex](https://github.com/LucasLuiz01/projeto10-cineflex) - Projeto Front end - Tecnologias utilizadas: React.js, Axios, ContextAPI, API (Rest)
-- [Drivent](https://github.com/Drivent-G2) - Projeto Full Stack - Tecnologias utilizadas: React.js, Axios, Node.js, Express.js, PostgreSQL, typeScript, PrismaORM, Jest.
-- [Boardcamp](https://github.com/LucasLuiz01/projeto16-boardcamp) - Projeto Back end - Tecnologias utilizadas: Node.js, ContextAPI, PostgreSQL, Express, Javascript. 
+- [Cineflex](https://github.com/LucasLuiz01/projeto10-cineflex) - Project Front end - Technologies used: React.js, Axios, ContextAPI, API (Rest)
+- [Drivent](https://github.com/Drivent-G2) - Project Full Stack - Technologies used : React.js, Axios, Node.js, Express.js, PostgreSQL, typeScript, PrismaORM, Jest.
+- [Boardcamp](https://github.com/LucasLuiz01/projeto16-boardcamp) - Project Back end - Technologies used: Node.js, ContextAPI, PostgreSQL, Express, Javascript. 
 
-## Entre em contato
+## Reach me:
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucas.luiz98@hotmail.com)
 <a href="https://www.linkedin.com/in/lucas-luiz-a3b9ba1b2/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-## Próximos passos
+## Next Steps
 
-- Aprender mais sobre Java e python
-- Contribuir para projetos open source
-- Desenvolver novos projetos pessoais
-
+-Learn more about Java and Python
+-Contribute to open source projects
+-Develop new personal projects
