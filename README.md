@@ -1,4 +1,4 @@
-<div align="center">
+<div>
   <h1>Olá, eu sou Lucas Luiz! 👋</h1>
   <p>Estudante de engenharia de manufatura na UNICAMP, apaixonado por desenvolvimento web full stack.</p>
   <a href="https://github.com/LucasLuiz01">
