@@ -3,8 +3,8 @@
 - 🌱 I’m currently in a bootcamp at Driven Education and learning things on my own too.
   </br>
 - 📫 As a Full Stack developer, I have skills in JavaScript, React, Node.js, and TypeScript, among others.
-- </br>
-- 💞️ Always looking for new challenges, I love applying my programming skills to create something innovative. I am passionate about entrepreneurship and technology.
+ </br>
+- 💞️ Always looking for new challenges, I love applying my programming skills to create something innovative.
 </br>
   <a href="https://github.com/LucasLuiz01">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
