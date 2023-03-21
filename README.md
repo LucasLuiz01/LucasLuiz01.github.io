@@ -12,8 +12,8 @@
   </a>
 </div>
 
-## Skills and Tools.
-[![My Skills](https://skillicons.dev/icons?i=linux,vscode,github,html,css,js,react,mongodb,postgres,aws,docker)](https://skillicons.dev)
+## Languages.
+[![My Skills](https://skillicons.dev/icons?i=linux,vscode,github,html,css,js,react,mongodb,postgres,aws,docker,typescript)](https://skillicons.dev)
  
 ## Recent Projects
 
