@@ -6,6 +6,7 @@
  </br>
 - 💞️ Always looking for new challenges, I love applying my programming skills to create something innovative.
 </br>
+</br>
   <a href="https://github.com/LucasLuiz01">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
