@@ -1,9 +1,9 @@
-# Olá, eu sou Lucas Luiz! 👋
-
-Sou estudante de engenharia de manufatura na UNICAMP e estou expandindo minhas habilidades em desenvolvimento web full stack através de uma formação na Driven Education.
-
-<div>
-<a href="https://github.com/LucasLuiz01">
+<div align="center">
+  <h1>Olá, eu sou Lucas Luiz! 👋</h1>
+  <p>Estudante de engenharia de manufatura na UNICAMP, apaixonado por desenvolvimento web full stack.</p>
+  <a href="https://github.com/LucasLuiz01">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
 </div>
 
 ## Habilidades e ferramentas
