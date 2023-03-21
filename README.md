@@ -22,7 +22,7 @@
 - [Boardcamp](https://github.com/LucasLuiz01/projeto16-boardcamp) - Projeto Back end - Tecnologias utilizadas: Node.js, ContextAPI, PostgreSQL, Express, Javascript. 
 
 ## Entre em contato
-<a href = "lucas.luiz98@hotmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucas.luiz98@hotmail.com)
 <a href="https://www.linkedin.com/in/lucas-luiz-a3b9ba1b2/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 ## Próximos passos
