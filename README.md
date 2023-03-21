@@ -1,7 +1,9 @@
 <div>
   <h1>Olá, eu sou Lucas Luiz! 👋</h1>
 - 🌱 I’m currently in a bootcamp at Driven Education and learning things on my own too.
+  </br>
 - 📫 As a Full Stack developer, I have skills in JavaScript, React, Node.js, and TypeScript, among others.
+- </br>
 - 💞️ Always looking for new challenges, I love applying my programming skills to create something innovative. I am passionate about entrepreneurship and technology.
 </br>
   <a href="https://github.com/LucasLuiz01">
