@@ -28,7 +28,5 @@
 ## Next Steps
 
 - Learn more about Java and Python
-- </br>
 - Contribute to open source projects
-- </br>
 - Develop new personal projects
