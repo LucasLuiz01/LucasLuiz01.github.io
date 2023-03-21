@@ -1,6 +1,9 @@
 <div>
   <h1>Olá, eu sou Lucas Luiz! 👋</h1>
-  <p>Estudante de engenharia de manufatura na UNICAMP, apaixonado por desenvolvimento web full stack.</p>
+- 🌱 I’m currently in a bootcamp at Driven Education and learning things on my own too.
+- 📫 As a Full Stack developer, I have skills in JavaScript, React, Node.js, and TypeScript, among others.
+- 💞️ Always looking for new challenges, I love applying my programming skills to create something innovative. I am passionate about entrepreneurship and technology.
+</br>
   <a href="https://github.com/LucasLuiz01">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
