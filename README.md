@@ -16,7 +16,7 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,typescript,php)](https://skillicons.dev)
 
 ## Libs and Tools
-[![My Skills](https://skillicons.dev/icons?i=linux,vscode,github,mongodb,postgres,aws,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,vscode,github,mongodb,postgres,aws,docker,mysql,laravel,symfony,react)](https://skillicons.dev)
  
 ## Recent Projects
 
