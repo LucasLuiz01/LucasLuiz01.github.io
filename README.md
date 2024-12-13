@@ -13,7 +13,7 @@
 </div>
 
 ## Languages.
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,php,node.js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,php,java)](https://skillicons.dev)
 
 ## Libs and Tools
 [![My Skills](https://skillicons.dev/icons?i=linux,vscode,react,github,mongodb,postgres,aws,docker,mysql,laravel,symfony)](https://skillicons.dev)
