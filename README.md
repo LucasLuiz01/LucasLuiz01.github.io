@@ -1,12 +1,47 @@
 <div>
-  <h1>Hello, I'm Lucas Luiz! 👋</h1>
-- 🌱 Sou um desenvolvedor de software formado em Engenharia de Manufatura pela UNICAMP e especializado em Desenvolvimento Web Full Stack pela Driven Education. Minha formação e experiência me permitem atuar no desenvolvimento de sistemas tanto para web quanto para aplicativos móveis, sempre buscando criar soluções inovadoras e eficientes.
-Atualmente, sou Desenvolvedor de Software Júnior na Watermelon Tecnologia & Participações, onde aplico meus conhecimentos para desenvolver aplicações web e mobile.
-  </br>
-- 📫 As a Full Stack developer, I have skills in JavaScript, React, Node.js, and TypeScript, among others.
- </br>
+# Hello, I'm Lucas Luiz! 👋
+
+## About Me
+- 🌱 I’m currently in a bootcamp at Driven Education and learning things on my own too.
+- 📫 As a Full Stack developer, I have skills in **JavaScript**, **React**, **Node.js**, **TypeScript**, and more.
 - 💞️ Always looking for new challenges, I love applying my programming skills to create something innovative.
-</br>
+
+---
+
+## Sobre Mim
+Eu sou Lucas, um desenvolvedor de software formado em Engenharia de Manufatura pela **UNICAMP** e em **Desenvolvimento Web Full Stack** pela **Driven Education**. Minha formação e experiência me permitem atuar no desenvolvimento de sistemas tanto para web quanto para aplicativos móveis, com um forte foco em criar soluções eficientes e inovadoras.
+
+Como desenvolvedor Full Stack, possuo experiência em tecnologias como **JavaScript**, **React**, **Node.js**, **TypeScript** e **React Native**. Tenho experiência no desenvolvimento de aplicações móveis, o que me proporciona uma visão ampla do desenvolvimento cross-platform.
+
+---
+
+## Experiência Profissional
+
+### 🏢 **Watermelon Tecnologia & Participações**
+**Desenvolvedor de Software Júnior**  
+**fev de 2025 - o momento · 1 mês**  
+Campinas, São Paulo, Brasil · Híbrido
+
+**Principais Responsabilidades:**
+- **Tecnologias utilizadas:** React, React Native, TypeScript, PHP (Laravel, Symfony), MySQL, PostgreSQL.
+- Desenvolvimento de sistemas web e mobile otimizados para múltiplas plataformas.
+- Participação em todas as fases do ciclo de vida do projeto (planejamento, desenvolvimento e entrega).
+- Colaboração em equipes multidisciplinares, alinhando objetivos e implementando soluções inovadoras.
+- Uso de metodologias ágeis, como **SCRUM**, para entregas rápidas e eficientes.
+
+---
+
+### 🏢 **Driven Education**
+**Estagiário de Engenharia de Software**  
+**abr de 2023 - fev de 2025 · 1 ano 11 meses**  
+Campinas, São Paulo, Brasil · Híbrido
+
+**Principais Responsabilidades:**
+- **Tecnologias utilizadas:** React, React Native, TypeScript, PHP, MySQL, PostgreSQL.
+- Desenvolvimento de sistemas internos, aplicativos web e mobile sob medida para clientes.
+- Participação ativa em equipes ágeis, com reuniões diárias (dailies) e revisões de sprints.
+
+---
 </br>
   <a href="https://github.com/LucasLuiz01">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
