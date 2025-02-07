@@ -12,7 +12,7 @@ Como desenvolvedor Full Stack, possuo experiência em tecnologias como **JavaScr
 
 ### 🏢 **Watermelon Tecnologia & Participações**
 **Desenvolvedor de Software Júnior**  
-**fev de 2025 - o momento ·**  
+**abril de 2023 - o momento ·**  
 Campinas, São Paulo, Brasil · Híbrido
 
 **Principais Responsabilidades:**
@@ -24,17 +24,6 @@ Campinas, São Paulo, Brasil · Híbrido
 
 ---
 
-### 🏢 **Driven Education**
-**Estagiário de Engenharia de Software**  
-**abr de 2023 - fev de 2025 · 1 ano 11 meses**  
-Campinas, São Paulo, Brasil · Híbrido
-
-**Principais Responsabilidades:**
-- **Tecnologias utilizadas:** React, React Native, TypeScript, PHP, MySQL, PostgreSQL.
-- Desenvolvimento de sistemas internos, aplicativos web e mobile sob medida para clientes.
-- Participação ativa em equipes ágeis, com reuniões diárias (dailies) e revisões de sprints.
-
----
 </br>
   <a href="https://github.com/LucasLuiz01">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
