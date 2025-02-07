@@ -1,13 +1,6 @@
 <div>
 # Hello, I'm Lucas Luiz! 👋
-
-## About Me
-- 🌱 I’m currently in a bootcamp at Driven Education and learning things on my own too.
-- 📫 As a Full Stack developer, I have skills in **JavaScript**, **React**, **Node.js**, **TypeScript**, and more.
-- 💞️ Always looking for new challenges, I love applying my programming skills to create something innovative.
-
----
-
+  
 ## Sobre Mim
 Eu sou Lucas, um desenvolvedor de software formado em Engenharia de Manufatura pela **UNICAMP** e em **Desenvolvimento Web Full Stack** pela **Driven Education**. Minha formação e experiência me permitem atuar no desenvolvimento de sistemas tanto para web quanto para aplicativos móveis, com um forte foco em criar soluções eficientes e inovadoras.
 
@@ -19,7 +12,7 @@ Como desenvolvedor Full Stack, possuo experiência em tecnologias como **JavaScr
 
 ### 🏢 **Watermelon Tecnologia & Participações**
 **Desenvolvedor de Software Júnior**  
-**fev de 2025 - o momento · 1 mês**  
+**fev de 2025 - o momento ·**  
 Campinas, São Paulo, Brasil · Híbrido
 
 **Principais Responsabilidades:**
