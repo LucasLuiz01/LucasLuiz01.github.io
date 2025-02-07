@@ -1,6 +1,7 @@
 <div>
   <h1>Hello, I'm Lucas Luiz! 👋</h1>
-- 🌱 I’m currently in a bootcamp at Driven Education and learning things on my own too.
+- 🌱 Sou um desenvolvedor de software formado em Engenharia de Manufatura pela UNICAMP e especializado em Desenvolvimento Web Full Stack pela Driven Education. Minha formação e experiência me permitem atuar no desenvolvimento de sistemas tanto para web quanto para aplicativos móveis, sempre buscando criar soluções inovadoras e eficientes.
+Atualmente, sou Desenvolvedor de Software Júnior na Watermelon Tecnologia & Participações, onde aplico meus conhecimentos para desenvolver aplicações web e mobile.
   </br>
 - 📫 As a Full Stack developer, I have skills in JavaScript, React, Node.js, and TypeScript, among others.
  </br>
